@@ -1,4 +1,3 @@
-# calculatorFx
+# Calculator FX
 Created with Java/JavaFX standard Calculator with GUI
-
-You can find app in dist folder :)
+You can find app in dist folder
